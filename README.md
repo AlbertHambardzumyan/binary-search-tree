@@ -42,4 +42,4 @@ Exercises we consider:
 * [Preorder Traversal of a Binary Tree (Exercise)](https://github.com/AlbertHambardzumyan/binary-search-tree/blob/master/src/preorder_traversal/PREORDER_TRAVERSAL.md)
 * [Inorder Traversal of a Binary Tree (Exercise)](https://github.com/AlbertHambardzumyan/binary-search-tree/blob/master/src/inorder_traversal/INORDER_TRAVERSAL.md)
 * [Postorder Traversal of a Binary Tree (Exercise)](https://github.com/AlbertHambardzumyan/binary-search-tree/blob/master/src/postorder_traversal/POSTORDER_TRAVERSAL.md)
-* [Provide traversals of the binary search tree (Exercise)]()
+* [Provide traversals of the binary search tree (Exercise)](https://github.com/AlbertHambardzumyan/binary-search-tree/blob/master/src/provide_traversals/PROVIDE_TRAVERSALS.md)
