@@ -39,7 +39,7 @@ We present algorithms for several binary tree operations, such as inserting, del
 
 
 Exercises we consider:
-* [Preorder Traversal of a Binary Tree (Exercise)]()
-* [Inorder Traversal of a Binary Tree (Exercise)]()
-* [Postorder Traversal of a Binary Tree (Exercise)]()
+* [Preorder Traversal of a Binary Tree (Exercise)](https://github.com/AlbertHambardzumyan/binary-search-tree/blob/master/src/preorder_traversal/PREORDER_TRAVERSAL.md)
+* [Inorder Traversal of a Binary Tree (Exercise)](https://github.com/AlbertHambardzumyan/binary-search-tree/blob/master/src/inorder_traversal/INORDER_TRAVERSAL.md)
+* [Postorder Traversal of a Binary Tree (Exercise)](https://github.com/AlbertHambardzumyan/binary-search-tree/blob/master/src/postorder_traversal/POSTORDER_TRAVERSAL.md)
 * [Provide traversals of the binary search tree (Exercise)]()

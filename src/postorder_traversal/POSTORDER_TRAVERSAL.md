@@ -1,4 +1,4 @@
-# postorder Traversal
+# Postorder Traversal
 
 Write recursive method *`postorderTraversal`* to traverse the tree and print the node values.
 
